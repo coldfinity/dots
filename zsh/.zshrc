@@ -23,8 +23,9 @@ fi
 # Oh My Zsh
 export ZSH="$HOME/.oh-my-zsh"
 
-# ZSH_THEME="powerlevel10k/powerlevel10k"
-ZSH_THEME="robbyrussell"
+ZSH_THEME="powerlevel10k/powerlevel10k"
+# ZSH_THEME="robbyrussell"
+# ZSH_THEME="apple"
 
 plugins=(git zsh-syntax-highlighting zsh-autosuggestions web-search z)
 source $ZSH/oh-my-zsh.sh

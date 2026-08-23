@@ -7,7 +7,7 @@ command = zsh
 
 # Font
 font-family = Iosevka Nerd Font
-font-size = 14
+font-size = 20
 font-thicken = false
 
 adjust-cell-height = 20%

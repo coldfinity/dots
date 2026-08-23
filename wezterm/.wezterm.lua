@@ -19,12 +19,13 @@ config.color_scheme = "Vesper"
 -- This is where you actually apply your config choices
 
 --config.font = wezterm.font("Maple Mono")
---config.font = wezterm.font("JetBrainsMono Nerd Font")
+-- config.font = wezterm.font("JetBrainsMono Nerd Font")
 config.font = wezterm.font("Iosevka Nerd Font")
 --config.font = wezterm.font("Fira Code")
+-- config.font = wezterm.font("SF Mono")
 
-config.font_size = 16
-config.line_height = 1
+config.font_size = 20
+-- config.line_height = 1
 
 config.default_cursor_style = "BlinkingBlock"
 config.cursor_blink_rate = 600
